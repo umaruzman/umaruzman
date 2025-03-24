@@ -61,8 +61,15 @@ I'm currently focused on:
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/umaruzman)
-- [umaruzman.lk@gmail.com](mailto:umaruzmanlk@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/umaruzman" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:umaruzmanlk@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
