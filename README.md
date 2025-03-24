@@ -61,7 +61,7 @@ I'm currently focused on:
 
 ### 📫 Let’s Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/uzman](https://www.linkedin.com/in/umaruzman))
+- [LinkedIn](https://www.linkedin.com/in/umaruzman)
 - [umaruzman.lk@gmail.com](mailto:umaruzmanlk@gmail.com)
 
 ---
